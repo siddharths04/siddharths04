@@ -5,7 +5,7 @@
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 <p align="left">
   
-**Hi! I'm a Data Analyst with a passion for extracting insights from data.  I'm currently pursuing my Master's in Computer Applications (MCA) at Amity University and have a strong foundation in Python, SQL, data visualization tools like Tableau, and version control systems like Git.**
+**Web-Dev.**
 
 </p>
 
