@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=FF69B4&width=435&lines=Hi+there,+I'm+Sid+👋 )](https://git.io/typing-svg)
 
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 <p align="left">
