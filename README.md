@@ -52,7 +52,7 @@
   Let's work together! I'm always open to opportunities and eager to work on exciting real-world data projects.  
 </p>
 
-<a href="mailto:jatinydav557@gmail.com">
+<a href="mailto:siddharthsingh01432@gmail.com">
  <img align="left" alt="Gmail" width="50" height="45" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp"/>
 </a>
 <a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
